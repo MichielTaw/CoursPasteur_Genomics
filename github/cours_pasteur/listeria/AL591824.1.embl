@@ -1,0 +1,290 @@
+ID   AL591824; SV 1; circular; genomic DNA; CON; PRO; 2944528 BP.
+XX
+AC   AL591824;
+XX
+PR   Project:PRJNA276;
+XX
+DT   18-JUL-2002 (Rel. 72, Created)
+DT   27-FEB-2015 (Rel. 123, Last updated, Version 7)
+XX
+DE   Listeria monocytogenes EGD-e, complete genome
+XX
+KW   .
+XX
+OS   Listeria monocytogenes EGD-e
+OC   Bacteria; Firmicutes; Bacilli; Bacillales; Listeriaceae; Listeria.
+XX
+RN   [1]
+RX   DOI; 10.1126/science.1063447.
+RX   PUBMED; 11679669.
+RA   Glaser P., Frangeul L., Buchrieser C., Rusniok C., Amend A., Baquero F.,
+RA   Berche P., Bloecker H., Brandt P., Chakraborty T., Charbit A.,
+RA   Chetouani F., Couve E., de Daruvar A., Dehoux P., Domann E.,
+RA   Dominguez-Bernal G., Duchaud E., Durant L., Dussurget O., Entian K.D.,
+RA   Fsihi H., Portillo F.G., Garrido P., Gautier L., Goebel W., Gomez-Lopez N.,
+RA   Hain T., Hauf J., Jackson D., Jones L.M., Kaerst U., Kreft J., Kuhn M.,
+RA   Kunst F., Kurapkat G., Madueno E., Maitournam A., Vicente J.M., Ng E.,
+RA   Nedjari H., Nordsiek G., Novella S., de Pablos B., Perez-Diaz J.C.,
+RA   Purcell R., Remmel B., Rose M., Schlueter T., Simoes N., Tierrez A.,
+RA   Vazquez-Boland J.A., Voss H., Wehland J., Cossart P.;
+RT   "Comparative genomics of Listeria species";
+RL   Science, e1252229 294(5543):849-852(2001).
+XX
+RN   [2]
+RP   1-2944528
+RA   Glaser P., Frangeul L., Rusniok C.;
+RT   ;
+RL   Submitted (06-JUN-2001) to the INSDC.
+RL   Glaser P., Institut Pasteur, Genomique des Microorganismes Pathogenes, 25
+RL   rue du Docteur Roux, 75724 Paris Cedex 15, FRANCE.
+XX
+DR   MD5; 40e64bde217c8a3c20c5299ae0365707.
+DR   BioSample; SAMEA3138329.
+DR   EnsemblGenomes-Gn; EBG00000016607.
+DR   EnsemblGenomes-Gn; EBG00000016610.
+DR   EnsemblGenomes-Gn; EBG00000016613.
+DR   EnsemblGenomes-Gn; EBG00000016616.
+DR   EnsemblGenomes-Gn; EBG00000016619.
+DR   EnsemblGenomes-Gn; EBG00000016622.
+DR   EnsemblGenomes-Gn; EBG00000016625.
+DR   EnsemblGenomes-Gn; EBG00000016628.
+DR   EnsemblGenomes-Gn; EBG00000016631.
+DR   EnsemblGenomes-Gn; EBG00000016634.
+DR   EnsemblGenomes-Gn; EBG00000016635.
+DR   EnsemblGenomes-Gn; EBG00000016636.
+DR   EnsemblGenomes-Gn; EBG00000016637.
+DR   EnsemblGenomes-Gn; EBG00000016638.
+DR   EnsemblGenomes-Gn; EBG00000016639.
+DR   EnsemblGenomes-Gn; EBG00000016640.
+DR   EnsemblGenomes-Gn; EBG00000016641.
+DR   EnsemblGenomes-Gn; EBG00000016642.
+DR   EnsemblGenomes-Gn; EBG00000016643.
+DR   EnsemblGenomes-Gn; EBG00000016644.
+DR   EnsemblGenomes-Gn; EBG00000016645.
+DR   EnsemblGenomes-Gn; EBG00000016646.
+DR   EnsemblGenomes-Gn; EBG00000016647.
+DR   EnsemblGenomes-Gn; EBG00000016648.
+DR   EnsemblGenomes-Gn; EBG00000016649.
+DR   EnsemblGenomes-Gn; EBG00000016650.
+DR   EnsemblGenomes-Gn; EBG00000016651.
+DR   EnsemblGenomes-Gn; EBG00000016652.
+DR   EnsemblGenomes-Gn; EBG00000016653.
+DR   EnsemblGenomes-Gn; EBG00000016654.
+DR   EnsemblGenomes-Gn; EBG00000016655.
+DR   EnsemblGenomes-Gn; EBG00000016656.
+DR   EnsemblGenomes-Gn; EBG00000016657.
+DR   EnsemblGenomes-Gn; EBG00000016658.
+DR   EnsemblGenomes-Gn; EBG00000016659.
+DR   EnsemblGenomes-Gn; EBG00000016660.
+DR   EnsemblGenomes-Gn; EBG00000016661.
+DR   EnsemblGenomes-Gn; EBG00000016662.
+DR   EnsemblGenomes-Gn; EBG00000016663.
+DR   EnsemblGenomes-Gn; EBG00000016664.
+DR   EnsemblGenomes-Gn; EBG00000016665.
+DR   EnsemblGenomes-Gn; EBG00000016666.
+DR   EnsemblGenomes-Gn; EBG00000016667.
+DR   EnsemblGenomes-Gn; EBG00000016668.
+DR   EnsemblGenomes-Gn; EBG00000016669.
+DR   EnsemblGenomes-Gn; EBG00000016670.
+DR   EnsemblGenomes-Gn; EBG00000016671.
+DR   EnsemblGenomes-Gn; EBG00000016672.
+DR   EnsemblGenomes-Gn; EBG00000016673.
+DR   EnsemblGenomes-Gn; EBG00000016674.
+DR   EnsemblGenomes-Gn; EBG00000016675.
+DR   EnsemblGenomes-Gn; EBG00000016676.
+DR   EnsemblGenomes-Gn; EBG00000016677.
+DR   EnsemblGenomes-Gn; EBG00000016678.
+DR   EnsemblGenomes-Gn; EBG00000016679.
+DR   EnsemblGenomes-Gn; EBG00000016680.
+DR   EnsemblGenomes-Gn; EBG00000016681.
+DR   EnsemblGenomes-Gn; EBG00000016682.
+DR   EnsemblGenomes-Gn; EBG00000016683.
+DR   EnsemblGenomes-Gn; EBG00000016684.
+DR   EnsemblGenomes-Gn; EBG00000016685.
+DR   EnsemblGenomes-Gn; EBG00000016686.
+DR   EnsemblGenomes-Gn; EBG00000016687.
+DR   EnsemblGenomes-Gn; EBG00000016688.
+DR   EnsemblGenomes-Gn; EBG00000016689.
+DR   EnsemblGenomes-Gn; EBG00000016690.
+DR   EnsemblGenomes-Gn; EBG00000016691.
+DR   EnsemblGenomes-Gn; EBG00000016692.
+DR   EnsemblGenomes-Gn; EBG00000016693.
+DR   EnsemblGenomes-Gn; EBG00000016694.
+DR   EnsemblGenomes-Gn; EBG00000016695.
+DR   EnsemblGenomes-Gn; EBG00000016696.
+DR   EnsemblGenomes-Gn; EBG00000016697.
+DR   EnsemblGenomes-Gn; EBG00000016698.
+DR   EnsemblGenomes-Gn; EBG00000016699.
+DR   EnsemblGenomes-Gn; EBG00000016700.
+DR   EnsemblGenomes-Gn; EBG00000016701.
+DR   EnsemblGenomes-Gn; EBG00000016702.
+DR   EnsemblGenomes-Gn; EBG00000016703.
+DR   EnsemblGenomes-Gn; EBG00000016704.
+DR   EnsemblGenomes-Gn; EBG00000016705.
+DR   EnsemblGenomes-Gn; EBG00000016706.
+DR   EnsemblGenomes-Gn; EBG00000016707.
+DR   EnsemblGenomes-Gn; EBG00000016708.
+DR   EnsemblGenomes-Gn; EBG00000016709.
+DR   EnsemblGenomes-Gn; EBG00000016710.
+DR   EnsemblGenomes-Gn; EBG00000016711.
+DR   EnsemblGenomes-Gn; EBG00000016712.
+DR   EnsemblGenomes-Gn; EBG00000016713.
+DR   EnsemblGenomes-Gn; EBG00000016714.
+DR   EnsemblGenomes-Gn; EBG00000016715.
+DR   EnsemblGenomes-Gn; EBG00000016716.
+DR   EnsemblGenomes-Gn; EBG00000016717.
+DR   EnsemblGenomes-Gn; EBG00000016718.
+DR   EnsemblGenomes-Tr; EBG00000016634-1.
+DR   EnsemblGenomes-Tr; EBG00000016635-1.
+DR   EnsemblGenomes-Tr; EBG00000016636-1.
+DR   EnsemblGenomes-Tr; EBG00000016637-1.
+DR   EnsemblGenomes-Tr; EBG00000016638-1.
+DR   EnsemblGenomes-Tr; EBG00000016639-1.
+DR   EnsemblGenomes-Tr; EBG00000016640-1.
+DR   EnsemblGenomes-Tr; EBG00000016641-1.
+DR   EnsemblGenomes-Tr; EBG00000016642-1.
+DR   EnsemblGenomes-Tr; EBG00000016643-1.
+DR   EnsemblGenomes-Tr; EBG00000016644-1.
+DR   EnsemblGenomes-Tr; EBG00000016645-1.
+DR   EnsemblGenomes-Tr; EBG00000016646-1.
+DR   EnsemblGenomes-Tr; EBG00000016647-1.
+DR   EnsemblGenomes-Tr; EBG00000016648-1.
+DR   EnsemblGenomes-Tr; EBG00000016649-1.
+DR   EnsemblGenomes-Tr; EBG00000016650-1.
+DR   EnsemblGenomes-Tr; EBG00000016651-1.
+DR   EnsemblGenomes-Tr; EBG00000016652-1.
+DR   EnsemblGenomes-Tr; EBG00000016653-1.
+DR   EnsemblGenomes-Tr; EBG00000016654-1.
+DR   EnsemblGenomes-Tr; EBG00000016655-1.
+DR   EnsemblGenomes-Tr; EBG00000016656-1.
+DR   EnsemblGenomes-Tr; EBG00000016657-1.
+DR   EnsemblGenomes-Tr; EBG00000016658-1.
+DR   EnsemblGenomes-Tr; EBG00000016659-1.
+DR   EnsemblGenomes-Tr; EBG00000016660-1.
+DR   EnsemblGenomes-Tr; EBG00000016661-1.
+DR   EnsemblGenomes-Tr; EBG00000016662-1.
+DR   EnsemblGenomes-Tr; EBG00000016663-1.
+DR   EnsemblGenomes-Tr; EBG00000016664-1.
+DR   EnsemblGenomes-Tr; EBG00000016665-1.
+DR   EnsemblGenomes-Tr; EBG00000016666-1.
+DR   EnsemblGenomes-Tr; EBG00000016667-1.
+DR   EnsemblGenomes-Tr; EBG00000016668-1.
+DR   EnsemblGenomes-Tr; EBG00000016669-1.
+DR   EnsemblGenomes-Tr; EBG00000016670-1.
+DR   EnsemblGenomes-Tr; EBG00000016671-1.
+DR   EnsemblGenomes-Tr; EBG00000016672-1.
+DR   EnsemblGenomes-Tr; EBG00000016673-1.
+DR   EnsemblGenomes-Tr; EBG00000016674-1.
+DR   EnsemblGenomes-Tr; EBG00000016675-1.
+DR   EnsemblGenomes-Tr; EBG00000016676-1.
+DR   EnsemblGenomes-Tr; EBG00000016677-1.
+DR   EnsemblGenomes-Tr; EBG00000016678-1.
+DR   EnsemblGenomes-Tr; EBG00000016679-1.
+DR   EnsemblGenomes-Tr; EBG00000016680-1.
+DR   EnsemblGenomes-Tr; EBG00000016681-1.
+DR   EnsemblGenomes-Tr; EBG00000016682-1.
+DR   EnsemblGenomes-Tr; EBG00000016683-1.
+DR   EnsemblGenomes-Tr; EBG00000016684-1.
+DR   EnsemblGenomes-Tr; EBG00000016685-1.
+DR   EnsemblGenomes-Tr; EBG00000016686-1.
+DR   EnsemblGenomes-Tr; EBG00000016687-1.
+DR   EnsemblGenomes-Tr; EBG00000016688-1.
+DR   EnsemblGenomes-Tr; EBG00000016689-1.
+DR   EnsemblGenomes-Tr; EBG00000016690-1.
+DR   EnsemblGenomes-Tr; EBG00000016691-1.
+DR   EnsemblGenomes-Tr; EBG00000016692-1.
+DR   EnsemblGenomes-Tr; EBG00000016693-1.
+DR   EnsemblGenomes-Tr; EBG00000016694-1.
+DR   EnsemblGenomes-Tr; EBG00000016695-1.
+DR   EnsemblGenomes-Tr; EBG00000016696-1.
+DR   EnsemblGenomes-Tr; EBG00000016697-1.
+DR   EnsemblGenomes-Tr; EBG00000016698-1.
+DR   EnsemblGenomes-Tr; EBG00000016699-1.
+DR   EnsemblGenomes-Tr; EBG00000016700-1.
+DR   EnsemblGenomes-Tr; EBG00000016701-1.
+DR   EnsemblGenomes-Tr; EBG00000016702-1.
+DR   EnsemblGenomes-Tr; EBG00000016703-1.
+DR   EnsemblGenomes-Tr; EBG00000016704-1.
+DR   EnsemblGenomes-Tr; EBG00000016705-1.
+DR   EnsemblGenomes-Tr; EBG00000016706-1.
+DR   EnsemblGenomes-Tr; EBG00000016707-1.
+DR   EnsemblGenomes-Tr; EBG00000016708-1.
+DR   EnsemblGenomes-Tr; EBG00000016709-1.
+DR   EnsemblGenomes-Tr; EBG00000016710-1.
+DR   EnsemblGenomes-Tr; EBG00000016711-1.
+DR   EnsemblGenomes-Tr; EBG00000016712-1.
+DR   EnsemblGenomes-Tr; EBG00000016713-1.
+DR   EnsemblGenomes-Tr; EBG00000016714-1.
+DR   EnsemblGenomes-Tr; EBG00000016715-1.
+DR   EnsemblGenomes-Tr; EBG00000016716-1.
+DR   EnsemblGenomes-Tr; EBG00000016717-1.
+DR   EnsemblGenomes-Tr; EBG00000016718-1.
+DR   EnsemblGenomes-Tr; EBT00000016609.
+DR   EnsemblGenomes-Tr; EBT00000016612.
+DR   EnsemblGenomes-Tr; EBT00000016615.
+DR   EnsemblGenomes-Tr; EBT00000016618.
+DR   EnsemblGenomes-Tr; EBT00000016621.
+DR   EnsemblGenomes-Tr; EBT00000016624.
+DR   EnsemblGenomes-Tr; EBT00000016627.
+DR   EnsemblGenomes-Tr; EBT00000016630.
+DR   EnsemblGenomes-Tr; EBT00000016633.
+DR   EuropePMC; PMC1112035; 15901709.
+DR   EuropePMC; PMC1386717; 16423288.
+DR   EuropePMC; PMC151722; 12543681.
+DR   EuropePMC; PMC1797373; 17041050.
+DR   EuropePMC; PMC2292909; 18256218.
+DR   EuropePMC; PMC2515284; 18664263.
+DR   EuropePMC; PMC2576701; 18791016.
+DR   EuropePMC; PMC2632123; 19060158.
+DR   EuropePMC; PMC2688707; 18713061.
+DR   EuropePMC; PMC2772482; 19767427.
+DR   EuropePMC; PMC2800845; 20003465.
+DR   EuropePMC; PMC2805206; 19948870.
+DR   EuropePMC; PMC2813243; 20042087.
+DR   EuropePMC; PMC2860498; 20436965.
+DR   EuropePMC; PMC2901733; 20511423.
+DR   EuropePMC; PMC2937515; 20656873.
+DR   EuropePMC; PMC2962554; 20847124.
+DR   EuropePMC; PMC2996996; 20846431.
+DR   EuropePMC; PMC3019169; 21264304.
+DR   EuropePMC; PMC3019230; 21126366.
+DR   EuropePMC; PMC309009; 14662936.
+DR   EuropePMC; PMC309025; 14662931.
+DR   EuropePMC; PMC3187093; 21821737.
+DR   EuropePMC; PMC3298151; 22247147.
+DR   EuropePMC; PMC3497465; 23002226.
+DR   EuropePMC; PMC3558321; 23267677.
+DR   EuropePMC; PMC3561277; 23347599.
+DR   EuropePMC; PMC374393; 15028680.
+DR   EuropePMC; PMC3762727; 24023890.
+DR   EuropePMC; PMC383165; 15066813.
+DR   EuropePMC; PMC4053416; 24918440.
+DR   EuropePMC; PMC4308010; 25608871.
+DR   EuropePMC; PMC451661; 15262937.
+DR   EuropePMC; PMC4551262; 26116683.
+DR   EuropePMC; PMC4558849; 26185097.
+DR   EuropePMC; PMC4609684; 26311854.
+DR   EuropePMC; PMC4783014; 26953695.
+DR   EuropePMC; PMC4956650; 27499751.
+DR   EuropePMC; PMC5240762; 27725353.
+DR   EuropePMC; PMC5761963; 29320565.
+DR   EuropePMC; PMC5810274; 29472901.
+DR   EuropePMC; PMC5850591; 29536831.
+DR   EuropePMC; PMC6558679; 31198443.
+XX
+CC   E-mail: pglaser@pasteur.fr
+CC   Phone: +33 1 45 68 89 96, Fax: +33 (0)1 45 68 87 86
+XX
+FH   Key             Location/Qualifiers
+FH
+FT   source          1..2944528
+FT                   /organism="Listeria monocytogenes EGD-e"
+FT                   /strain="EGD-e"
+FT                   /mol_type="genomic DNA"
+FT                   /db_xref="taxon:169963"
+XX
+CO   join(AL591973.1:1..200050,AL591974.1:51..160050,AL591975.1:51..280050,
+CO   AL591976.1:51..250050,AL591977.1:51..270050,AL591978.1:51..250050,
+CO   AL591979.1:51..240050,AL591980.1:51..103050,AL591981.1:51..347050,
+CO   AL591982.1:51..295050,AL591983.1:51..324050,AL591984.1:51..225528)
+//

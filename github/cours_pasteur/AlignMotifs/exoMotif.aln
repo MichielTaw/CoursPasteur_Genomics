@@ -1,0 +1,79 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+O25660          ------------------------------------------------------------
+PGSA_RICPR      ------------------------------------------------------------
+PIS_YEAST       ------------------------------------------------------------
+YAT8_SCHPO      ------------------------------------------------------------
+PGSA_TREPA      ------------------------------------------------------------
+CTF5_DROME      MLPAIIFRQVQRPLHHGAATLEHVLGVGGSSFVNCLNRYAAATGFIRISFLDIKRRRNYE
+YE80_AQUAE      ------------------------------------------------------------
+O54078          ------------------------------------------------------------
+PSS_METJA       ------------------------------------------------------------
+                                                                            
+
+O25660          ----------------------------------------MCGAWFFGARVFEFFTSLFE
+PGSA_RICPR      ------------------------------------------------------------
+PIS_YEAST       ---------------------------------------------MSSNSTP----EKVT
+YAT8_SCHPO      ---------------------------------------MRVKFLKLSNDFPFCSGQAMS
+PGSA_TREPA      ----------------------------------------------------MRLSDFYT
+CTF5_DROME      LARLRLYADEKKQSLHLRTLQGRHLLQGVIERKNFLVDDIREARHKVQERVREKIDEIRE
+YE80_AQUAE      ---------------------------------------MSLLTRRLKPYYEELLEPLVN
+O54078          ------------MAAFLALGLWHLALVWLVGHRLGGGAAALALAIFAAVLAIAGLSLRAR
+PSS_METJA       ----------------------------------------------------------MF
+                                                                            
+
+O25660          SMKVLKLLPNFLTILRIVLSLFLLFLLLNTRTYFSFLTPFQTNMISSLVFLFAALTDLLD
+PGSA_RICPR      -MRIDKNLPNYLTIARIMVIPVIILLFYINNSLARKLG--------ALLFVLASITDFFD
+PIS_YEAST       AEHVLWYIPNKIGYVRVITAALSFFVMKNHPTAF------------TWLYSTSCLLDALD
+YAT8_SCHPO      GVLDTFILTLCLGFTRVFLVLISLYFMSWHPNYC------------TIVYLYSSLLDAFD
+PGSA_TREPA      ALRLALVLP-FFALYHMSRWVVMYFPAANVGRVVSIAS--------VLLFLFIACTDFLD
+CTF5_DROME      ERENIMTIPNMLTISRAVLSPYIGYVIVQGDFTLG-----------MSLLAFAGITDLLD
+YE80_AQUAE      FFGKYNVSPNLITLFGLFLVGLGSFFLYLENLILA-----------FLLLLLGALADSID
+O54078          YPHPRLGLCNGVTQLRAALVAVIAVPLAAHGVLNQETG---LAWTIVALGTLALGLDGLD
+PSS_METJA       SIRKIITISDYVTMLNIITGLLAILLNSFS------------------LIYLSIIFDSLD
+                           .                                    :       * :*
+
+O25660          GYIARSY-KAKSRFGEIFDPLADKILILSAFLGLVYLDRVN--AWIPFVILGREFFISGL
+PGSA_RICPR      GYIARKY-NLVTSFGKMFDPIADKLLVGCVTIMLLKKDNVD--EIPCLLILAREFLVSGL
+PIS_YEAST       GTMARKY-NQVSSLGAVLDMVTDRSSTAGLMCFLCVQYPQW--CVFFQLMLGLDITSHYM
+YAT8_SCHPO      GWAARKL-HQATNFGAILDMVTDRCATSCLLCFLCAAYPKY--AIIFQLLVSLDLASHYM
+PGSA_TREPA      GYYARKS-GKYSSFGKVFDPFADVIANVTVMLCLVADNFMP--VFLFLCILYREFGMMFL
+CTF5_DROME      GQIARRWPSQASKFGSFLDPMADKLLMGSLVISLCYTDLLP--MWLMGIVVFRDVFLLGA
+YE80_AQUAE      GALARRL-NLKTEFGAFLDSTVDRFSDALPFTALGVHYASY--GDETGVLLSFLALISSF
+O54078          GWLARRA-GLVSEFGARFDMEVDALFALTLALLVAQGGKVG--LWVLALAGMRYAFVAAA
+PSS_METJA       GYVARKT-GTVSDFGAELDSISDVVSFGVAPAYLLYNNFESNLALISAIIFCLCGALRLA
+                *  **      : :*  :*   *          :                          
+
+O25660          RVLAANE----KKDIPVNALG------------KYKTVSQV-VAIGALLADVTYS-----
+PGSA_RICPR      REFLALV----KVSVPVSRLA------------KLKTFLQM-FALSILILGSKGSGIIYL
+PIS_YEAST       HMYASLS----AGKTSHKSVGEGESRLLHLYYTRRDVLFTI-CAFNELFYAGLYLQLFSN
+YAT8_SCHPO      HMYSTLH----QGASSHKTVTKKHNWMLRLYYGNNKVLFIF-CAANEMFFVALYLLSFTP
+PGSA_TREPA      RMLACGE----GHVVGAQRMG------------KLKTASYMGAVLFSLLLKALYAFELAG
+CTF5_DROME      GFVIRYI----SLPPPKTFSR---------YFDATHVTAQLEPTLLSKINTGVQLATIGL
+YE80_AQUAE      GVSYTRAR---AESLGVYGLG-----------GVFERTERWIVLLGSILLGLLKLG----
+O54078          RIWPWLS-----APLPESRAR-------------KLVCVIQIASLIAILAPPVESG----
+PSS_METJA       RFGILNVKGFIGLPIPAGALLLVG--------FCQLINSYLINSILAILIGLLMISDIKY
+                                                                :           
+
+O25660          --------------------------------------------YALVAIAVFLTLYSGI
+PGSA_RICPR      ----------------------------------------DIVGEIILWIAAFLTIITGY
+PIS_YEAST       ------------SATFGKWTTIISFP-------G--YVFKQTANVVQLKRAALILADNDA
+YAT8_SCHPO      RTPPKLGYLPVPSFIYSTGELPLSYPTLLAVLCGPICLAKQIINVVQLVNAANALVKMDV
+PGSA_TREPA      ---------------------------------ADWYERMRAVGRLVYVVPVVLALASFF
+CTF5_DROME      SLG-----------------------------APIWNYLDHPALQGLWYLTGLTTAATAL
+YE80_AQUAE      --------------------------------------------LFIITLGSLITVFQRV
+O54078          -------------------------------------------AAVPLAAATLALLLWSF
+PSS_METJA       PKYPN---------------------------KIFIYIFAVSLCLAIVGIPHFALMLCLI
+                                                                            
+
+O25660          DYTIKYYKS--------------------
+PGSA_RICPR      SYFKACKTYF-------------------
+PIS_YEAST       KNANEKNKTY-------------------
+YAT8_SCHPO      EQRRAAKKLQ-------------------
+PGSA_TREPA      SYLKTFFPILKRVCGRTRYPVCKTCREWD
+CTF5_DROME      SYVMNRHNTFKIIQKKT------------
+YE80_AQUAE      YETKKALEVKR------------------
+O54078          GRDVAWLARR-------------------
+PSS_METJA       YAIYGIIKYIRGD----------------
+                                             
